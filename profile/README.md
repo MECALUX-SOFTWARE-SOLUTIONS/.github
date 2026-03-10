@@ -35,8 +35,6 @@ Priorizamos prácticas de ingeniería y operación orientadas a calidad y sosten
 
 ## Tecnologías
 
-> Ajusta este listado para reflejar únicamente lo que queráis hacer público.
-
 - **Backend**: .NET / C#
 - **Frontend**: Angular
 - **Plataforma**: Terraform (IaC), automatización, monitorización
