@@ -2,7 +2,7 @@
 
 En **Mecalux Software Solutions** diseñamos, desarrollamos y operamos **software de supply chain** como una **plataforma tecnológica**, con foco en ingeniería, fiabilidad y seguridad. Nuestro trabajo combina desarrollo de producto, operación 24x7 y mejora continua para entornos críticos.
 
-> 📍 **Sedes**: Gijón · Badajoz · Salamanca · Mexico · India  
+> 📍 **Sedes**: Gijón · Badajoz · Salamanca
 > 🏢 **Modalidad**: Híbrido  
 > 👥 **Equipo**: Más de 330 profesionales
 
