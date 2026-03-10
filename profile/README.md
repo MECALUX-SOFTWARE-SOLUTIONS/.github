@@ -89,7 +89,7 @@ Buscamos perfiles orientados a tecnología y operación de plataforma:
 
 📍 Posiciones en **Gijón, Badajoz y Salamanca** (modelo **híbrido**)
 
-✅ Enlaces (añadir):
+✅ Enlaces:
 - Web / Careers: [(https://www.mecalux.es/ofertas-de-empleo)](https://www.mecalux.es/ofertas-de-empleo)
 - LinkedIn: [(https://www.linkedin.com/company/mecalux/jobs)](https://www.linkedin.com/company/mecalux/jobs)
 
