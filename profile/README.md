@@ -79,7 +79,7 @@ Si detectas una vulnerabilidad o un incidente de seguridad:
 Buscamos perfiles orientados a tecnología y operación de plataforma:
 
 - **SRE / DevSecOps / Cloud** (ciberseguridad, IaC/Terraform, observabilidad, fiabilidad)
-- **Ingeniería de software** (.NET, Angular)
+- **Ingeniería de software** (.NET, Angular, Blazor, Razor)
 - **Data / IA / Analytics**
 - **DBA / Performance**
 - **Product Management**
